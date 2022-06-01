@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>handle window by title</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>id</key>
+            <value>54739994</value>
+         </entry>
+         <entry>
+            <key>name</key>
+            <value>handle window by title</value>
+         </entry>
+         <entry>
+            <key>parentId</key>
+            <value>11741870</value>
+         </entry>
+         <entry>
+            <key>pid</key>
+            <value>TC-567</value>
+         </entry>
+         <entry>
+            <key>versionId</key>
+            <value>85097296</value>
+         </entry>
+         <entry>
+            <key>version</key>
+            <value>0.1</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>63f86687-a82a-4cf9-b6b0-67e60f19f365</testCaseGuid>
+</TestCaseEntity>

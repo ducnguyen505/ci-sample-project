@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Click this button to hide the below _812df9</name>
+   <tag></tag>
+   <elementGuidId>32538b27-83c0-4c1f-a4e5-dbec9990c572</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='hide-element']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#hide-element</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8c0b9aca-1939-4dcb-8486-164eb72e0d94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9bf49a87-938f-4c5e-81ce-b09e2fc3a964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hide-element</value>
+      <webElementGuid>59a3d850-f893-478a-9226-ac27b4f1e9e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>e569927b-0d56-4b26-95be-a63231839b20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click this button to hide the below image after 10 seconds!</value>
+      <webElementGuid>e7e40bad-117c-43da-a7a3-91d42acce3a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hide-element&quot;)</value>
+      <webElementGuid>7631e6db-4c3b-4475-ad46-fc7056aff8b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='hide-element']</value>
+      <webElementGuid>1ec65299-5c20-4cc9-97d0-deff1d859211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click this button to show an image after 10 seconds!'])[1]/following::button[1]</value>
+      <webElementGuid>ff7e3c57-69ef-4259-9cd6-8edf2249abdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'hide-element', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>39fb4d8c-8653-469b-b71c-310ac95929a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click this button to hide the below image after 10 seconds!']/parent::*</value>
+      <webElementGuid>0592bd58-7ce7-4480-95a6-fd4b7f7fcb5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>e3aac10d-2706-4d5f-9f61-0a172709be8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'hide-element' and (text() = 'Click this button to hide the below image after 10 seconds!' or . = 'Click this button to hide the below image after 10 seconds!')]</value>
+      <webElementGuid>8da6a60e-5419-4703-a32e-81d4241f2a0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

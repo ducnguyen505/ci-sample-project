@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DucTest</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>id</key>
+            <value>54740332</value>
+         </entry>
+         <entry>
+            <key>name</key>
+            <value>DucTest</value>
+         </entry>
+         <entry>
+            <key>parentId</key>
+            <value>11741870</value>
+         </entry>
+         <entry>
+            <key>pid</key>
+            <value>TC-573</value>
+         </entry>
+         <entry>
+            <key>versionId</key>
+            <value>85098289</value>
+         </entry>
+         <entry>
+            <key>version</key>
+            <value>0.1</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>28dd83bc-7b44-4d49-9853-0b2d10ce39af</testCaseGuid>
+</TestCaseEntity>

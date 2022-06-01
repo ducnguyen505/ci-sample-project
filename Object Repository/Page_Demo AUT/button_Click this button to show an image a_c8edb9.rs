@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Click this button to show an image a_c8edb9</name>
+   <tag></tag>
+   <elementGuidId>058deecc-ea8c-44f4-994f-01d21af6ebad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='show-element']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#show-element</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>92325bf8-679a-4b93-b8a9-0af420627b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3c11782b-522a-411f-8f3a-9298dab48d02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>show-element</value>
+      <webElementGuid>f0417cbd-0bb8-4c1f-9c5c-f49e8618c280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>03606e83-7157-408f-aa3f-09bc0e9ecf05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click this button to show an image after 10 seconds!</value>
+      <webElementGuid>6b52f77f-6516-425c-a8bc-116a9a247688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show-element&quot;)</value>
+      <webElementGuid>da4f6b5d-57fb-4658-bf12-8db6ff952790</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='show-element']</value>
+      <webElementGuid>9c1cbeb3-e42b-487b-a94b-7006fdd2dbf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click this button to hide the below image after 10 seconds!'])[1]/preceding::button[1]</value>
+      <webElementGuid>a4c63f05-22dc-4a19-9efb-1c1943ed1cdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'show-element', '&quot;', ')')])[1]/preceding::button[2]</value>
+      <webElementGuid>7d653455-9d0e-41b5-9a33-f70503024742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click this button to show an image after 10 seconds!']/parent::*</value>
+      <webElementGuid>bfb810c3-9418-4425-8ff5-66b59d1dc0cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>84196a7b-d53b-4724-be70-278f8cb6b4c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'show-element' and (text() = 'Click this button to show an image after 10 seconds!' or . = 'Click this button to show an image after 10 seconds!')]</value>
+      <webElementGuid>64e87c86-6de9-4cab-9131-802c30ed3363</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

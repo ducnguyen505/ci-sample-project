@@ -1,0 +1,139 @@
+{
+  "keywordFileContentHash": "DDAC50314C00B7B026ED7E9FB3BB6558",
+  "keywordClasses": [
+    {
+      "name": "webdriver.screenshot.TakeScreenshot",
+      "keywordMethods": [
+        {
+          "name": "takeScreenshot",
+          "parameters": [
+            {
+              "name": "expectedFilename",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "flowControl",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.model.FailureHandling",
+                "unresolvedClassName": "FailureHandling",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Take screenshot of current view\n\t * @param expectedFilename the location of expected image\n\t * @param flowControl control behavior of the execution\n\t * @return\n\t */"
+        },
+        {
+          "name": "takeElementScreenshot",
+          "parameters": [
+            {
+              "name": "expectedFilename",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "elementLocator",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "flowControl",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.model.FailureHandling",
+                "unresolvedClassName": "FailureHandling",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Take screenshot of the element\n\t * @param expectedFilename the location of expected image\n\t * @param elementLocator the locator of desired element to take screenshot\n\t * @param flowControl control behavior of the execution\n\t * @return\n\t */"
+        },
+        {
+          "name": "takeScreenshot",
+          "parameters": [
+            {
+              "name": "expectedFilename",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "takeElementScreenshot",
+          "parameters": [
+            {
+              "name": "expectedFilename",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "elementLocator",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
