@@ -3,7 +3,7 @@
    <description></description>
    <name>New Test Suite Collection</name>
    <tag></tag>
-   <delayBetweenInstances>15</delayBetweenInstances>
+   <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>PARALLEL</executionMode>
    <maxConcurrentInstances>3</maxConcurrentInstances>
    <testSuiteRunConfigurations>

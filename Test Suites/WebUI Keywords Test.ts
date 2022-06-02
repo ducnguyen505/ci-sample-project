@@ -9,7 +9,9 @@
          <entry>
             <key>0</key>
             <value>{&quot;parent&quot;:{&quot;parentName&quot;:&quot;&quot;,&quot;name&quot;:&quot;HieuBui&quot;,&quot;id&quot;:875301,&quot;type&quot;:8,&quot;parentId&quot;:0},
-&quot;default&quot;:true,&quot;name&quot;:&quot;WebUI Keywords Test&quot;,&quot;pid&quot;:&quot;&quot;,&quot;id&quot;:7944784,&quot;testRuns&quot;:[{&quot;name&quot;:&quot;wait for angular load_angularjs&quot;,&quot;qTestCaseId&quot;:54739993,&quot;pid&quot;:&quot;TR-223&quot;,&quot;id&quot;:275279775}]}</value>
+&quot;default&quot;:true,&quot;name&quot;:&quot;WebUI Keywords Test&quot;,&quot;pid&quot;:&quot;&quot;,&quot;id&quot;:7944784,&quot;testRuns&quot;:[{&quot;name&quot;:&quot;wait for angular load_angularjs&quot;,&quot;qTestCaseId&quot;:54739993,&quot;pid&quot;:&quot;TR-223&quot;,&quot;id&quot;:275279775},
+{&quot;name&quot;:&quot;handle window by title&quot;,&quot;qTestCaseId&quot;:54739994,&quot;pid&quot;:&quot;TR-230&quot;,&quot;id&quot;:281945013},
+{&quot;name&quot;:&quot;handle prompt&quot;,&quot;qTestCaseId&quot;:54739995,&quot;pid&quot;:&quot;TR-231&quot;,&quot;id&quot;:281945018}]}</value>
          </entry>
       </properties>
       <type>TESTSUITE</type>
