@@ -48,7 +48,7 @@
    <UUID>e2f95cb7-5592-4ae0-8546-3f364e3e58e2</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\duc.tnguyen\Katalon Studio\STUDIO-1876\web-samples\web-samples-master\web-samples.prj</projectFileLocation>
+   <projectFileLocation>D:\HELPDESK\1252\ci-sample-project\web-samples.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
