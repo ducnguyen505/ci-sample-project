@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "DDAC50314C00B7B026ED7E9FB3BB6558",
+  "keywordFileContentHash": "EBA8157E7BD27A3654B6302EC5868778",
   "keywordClasses": [
     {
       "name": "webdriver.screenshot.TakeScreenshot",
@@ -34,7 +34,7 @@
               }
             }
           ],
-          "javadoc": "/**\n\t * Take screenshot of current view\n\t * @param expectedFilename the location of expected image\n\t * @param flowControl control behavior of the execution\n\t * @return\n\t */"
+          "javadoc": "/**\r\n\t * Take screenshot of current view\r\n\t * @param expectedFilename the location of expected image\r\n\t * @param flowControl control behavior of the execution\r\n\t * @return\r\n\t */"
         },
         {
           "name": "takeElementScreenshot",
@@ -79,7 +79,7 @@
               }
             }
           ],
-          "javadoc": "/**\n\t * Take screenshot of the element\n\t * @param expectedFilename the location of expected image\n\t * @param elementLocator the locator of desired element to take screenshot\n\t * @param flowControl control behavior of the execution\n\t * @return\n\t */"
+          "javadoc": "/**\r\n\t * Take screenshot of the element\r\n\t * @param expectedFilename the location of expected image\r\n\t * @param elementLocator the locator of desired element to take screenshot\r\n\t * @param flowControl control behavior of the execution\r\n\t * @return\r\n\t */"
         },
         {
           "name": "takeScreenshot",

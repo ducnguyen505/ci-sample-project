@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "A905509B9236C2EF0590F13D6AA91182",
+  "keywordFileContentHash": "3704838C722C19B54BE5B866A5C93422",
   "keywordClasses": [
     {
       "name": "katalon.verifyImage.ImageComparison",
@@ -47,7 +47,7 @@
               }
             }
           ],
-          "javadoc": "/**\n\t * Verify two images are matched or not\n\t * @param expectedImgPath the location of expected image\n\t * @param actualImgPath the location of actual image\n\t * @return\n\t */"
+          "javadoc": "/**\r\n\t * Verify two images are matched or not\r\n\t * @param expectedImgPath the location of expected image\r\n\t * @param actualImgPath the location of actual image\r\n\t * @return\r\n\t */"
         },
         {
           "name": "areMatched",
