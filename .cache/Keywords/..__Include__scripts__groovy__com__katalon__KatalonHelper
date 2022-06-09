@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "BB280FD33D770BF4EA1A89194E8AFF0E",
+  "keywordFileContentHash": "5E32BE2F62F458B3846AE455875ED5F2",
   "keywordClasses": [
     {
       "name": "com.katalon.IgnoreUnknownProperties",
@@ -26,5 +26,5 @@
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }
