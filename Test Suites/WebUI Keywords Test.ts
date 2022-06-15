@@ -116,6 +116,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>36bacfc9-bdc1-4201-ba98-81d105ba812b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HELPDESK-1252B</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>d82d7f76-c6fd-4dad-988f-0c9252d272f3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
