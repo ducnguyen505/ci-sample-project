@@ -19,7 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+WebUI.takeScreenshot()
+
+WebUI.navigateToUrl('http://10.10.10.217:9903/Inquiry/Inquiry/WebPortal.action')
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/HELPDESK-1252/Page_CURA Healthcare Service/a_Make Appointment'))
 
