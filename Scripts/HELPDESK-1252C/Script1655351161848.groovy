@@ -21,28 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.takeScreenshot()
 
-WebUI.navigateToUrl('https://jenkins.crifhighmark.com/')
+WebUI.navigateToUrl('http://172.22.0.149/')
 
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/HELPDESK-1252/Page_CURA Healthcare Service/a_Make Appointment'))
+WebUI.click(findTestObject('Object Repository/HELPDESK-1252/Page_IIS Windows Server/img'))
 
-WebUI.setText(findTestObject('Object Repository/HELPDESK-1252/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/HELPDESK-1252/Page_CURA Healthcare Service/input_Password_password'), 
-    'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
-
-WebUI.takeScreenshot()
-
-WebUI.click(findTestObject('Object Repository/HELPDESK-1252/Page_CURA Healthcare Service/button_Login'))
-
-WebUI.setText(findTestObject('Object Repository/HELPDESK-1252/Page_CURA Healthcare Service/textarea_Comment_comment'), 'abcdefghik   dfasd')
-
-WebUI.click(findTestObject('Object Repository/HELPDESK-1252/Page_CURA Healthcare Service/button_Book Appointment'))
-
-WebUI.click(findTestObject('Object Repository/HELPDESK-1252/Page_CURA Healthcare Service/td_22'))
-
-WebUI.click(findTestObject('Object Repository/HELPDESK-1252/Page_CURA Healthcare Service/button_Book Appointment'))
+WebUI.click(findTestObject('Object Repository/HELPDESK-1252/Page_IIS Windows Server/img'))
 
 WebUI.closeBrowser()
 
